@@ -109,33 +109,6 @@ body {
     }
   }
 
-.game__option-line {
-    height: 10px;
-    width: 140px;
-    background: #16233B;
-    border: none;
-    position: absolute;
-    z-index: -1;
-}
-
-#game__option-first-line {
-    right: -100px;
-    top: 80px;
-}
-
-#game__option-second-line {
-    bottom: -20px;
-    left: -30px;
-    transform: rotate(130deg);
-}
-
-#game__option-third-line {
-    top: -50px;
-    width: 220px;
-    left: -110px;
-    transform: rotate(230deg);
-}
-
 
 /* Icon Manipulation */
 
