@@ -45,18 +45,24 @@ body {
     border-radius: 6px;
     padding: 10px;
     opacity: 0.8;
+    margin-left: 10px;
 }
 
 .scoreboard__title {
     text-align: center;
-    font-size: 10px;
+    font-size: 8px;
     letter-spacing: 1px;
     color: #424D9C;
     font-weight: 700;
     margin: 0px;
 }
 
-#score {
+.scoreboards-container {
+    display: flex;
+}
+
+
+#playerScore, #computerScore {
     text-align: center;
     font-size: 38px;
     font-weight: 900;
