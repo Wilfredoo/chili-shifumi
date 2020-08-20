@@ -7,8 +7,8 @@ This is a JavaScript workshop to help improve your skills through building a shi
 * Pick either Rock, Paper or Scissors
 * The computer will randomly chose either Rock, Paper or Scissors.
 * The game will then see who the winner of that round is.
-* If the player wins the round then the score is incremented.
-* If the computer wins then the player score will remain the same.
+* If the player wins the round then the players score is incremented.
+* If the computer wins then the computers score is incremented.
 * To reset the game you can simply refresh the page.
 
 # Key things to consider when building out the game
