@@ -9,6 +9,7 @@ This is a JavaScript workshop to help improve your skills through building a shi
 * The game will then see who the winner of that round is.
 * If the player wins the round then the players score is incremented.
 * If the computer wins then the computers score is incremented.
+* If it is a draw the scores will remain the same.
 * To reset the game you can simply refresh the page.
 
 # Key things to consider when building out the game
@@ -17,11 +18,3 @@ This is a JavaScript workshop to help improve your skills through building a shi
 * Aim to create reusable blocks of code.
 * Readability is important, keep your code simple.
 * Break down your code into smaller functions.
-
-
-# Extra Features
-
-* Display  a flash message / popup or an alert to show the winner of each round.
-* Keep track of the computers score.
-* Build a game reset feature.
-

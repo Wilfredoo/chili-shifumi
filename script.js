@@ -1,10 +1,8 @@
 // We get the player scoreboard and set it to 0 to start the game
 let playerScore = document.getElementById('playerScore');
-playerScore.textContent = 0;
 
 // We get the computer scoreboard and set it to 0 to start the game
 let computerScore = document.getElementById('computerScore');
-computerScore.textContent = 0;
 
 function handleRoundPoints(computerChoice, losingOption) {
     if (computerChoice === losingOption) {
